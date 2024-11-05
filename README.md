@@ -1,10 +1,9 @@
 <h1> Hello World </h1>
 
 <h3 align="left">Social Media:</h3>
-<p align="center">
-  <a href="https://www.youtube.com/@gustavosandoval8044"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  
-  <a href="https://www.linkedin.com/in/gustavo-sandoval-a961302a1/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+<p align="left">
+  <a align="center" href="https://www.youtube.com/@gustavosandoval8044"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a align="center" href="https://www.linkedin.com/in/gustavo-sandoval-a961302a1/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
  
 </p>
 
