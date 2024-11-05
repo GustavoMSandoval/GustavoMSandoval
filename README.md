@@ -2,7 +2,7 @@
 
 <h3 align="left">Social Media:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gustavo sandoval" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo sandoval" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gustavo-sandoval-a961302a1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo sandoval" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@gustavosandoval8044" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gustavo sandoval" height="30" width="40" />
 </a>
