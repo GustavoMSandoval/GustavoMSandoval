@@ -98,9 +98,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
   <img
    align="left"
    height="200"
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomsandoval&theme=tokyonight&layout-compact&custom_title=Ferramentas&langs_count=9"
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomsandoval&theme=tokyonight&layout=compact&custom_title=Ferramentas&langs_count=9"
    />
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 </p>
 
 
