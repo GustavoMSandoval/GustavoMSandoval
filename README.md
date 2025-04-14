@@ -7,8 +7,8 @@ Me chamo Gustavo Moreira Sandoval, natural da cidade de São Paulo , sou estudan
 
 <h3 align="left">🤳🏻 Social Media:</h3>
 <p align="left">
-  <a align="center" href="https://www.youtube.com/@gustavosandoval8044"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  <a align="center" href="https://www.linkedin.com/in/gustavo-sandoval-a961302a1/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/></a>
+  <a align="center" href="https://www.youtube.com/@gustavomsandoval"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a align="center" href="https://www.linkedin.com/in/gustavomsandoval/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/></a>
 </p>
 
 
