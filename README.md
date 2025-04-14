@@ -5,7 +5,7 @@
 
 Me chamo Gustavo Moreira Sandoval, natural da cidade de São Paulo , sou estudante de Ciências da Computação na Universidade Paulista, apaixonado por tecnologia e em desenvolver sistemas que solucionem problemas. Atualmente tenho estudado bastante php e Laravel, mas consigo me dar bem com outras stacks como Java Script, Java, python, etc.
 
-<h3 align="left">🤳🏻 Social Media:</h3>
+### 🤳🏻 Social Media:
 <p align="left">
   <a align="center" href="https://www.youtube.com/@gustavomsandoval"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   <a align="center" href="https://www.linkedin.com/in/gustavomsandoval/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/></a>
