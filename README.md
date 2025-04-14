@@ -12,7 +12,7 @@ Me chamo Gustavo Moreira Sandoval, natural da cidade de São Paulo , sou estudan
 </p>
 
 
-<h3 align="left">⚒️ Linguagens e ferramentas:</h3>
+### ⚒️ Linguagens e ferramentas:
 
 <img 
 align="left"
