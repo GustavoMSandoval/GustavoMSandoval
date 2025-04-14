@@ -93,12 +93,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
    align="left"
    height="200"
    style="padding-right: 10px;"
-   src="https://github-readme-stats.vercel.app/api?username=GustavoMSandoval&show_icons=true&theme=dark#gh-dark-mode-only"
+   src="https://github-readme-stats.vercel.app/api?username=GustavoMSandoval&show_icons=true&theme=tokyonight"
    />
   <img
    align="left"
    height="200"
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomsandoval&theme=tokyonight&layout-compact&custom_title-Ferramentas"
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomsandoval&theme=tokyonight&layout-compact&custom_title=Ferramentas&langs_count=9"
    />
 </p>
 
