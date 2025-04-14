@@ -3,7 +3,7 @@
 **`Desenvolvedor Web Fullstack`**
 <h1> Hello World </h1>
 
-Me chamo Gustavo Moreira Sandoval, natural da cidade de São Paulo , sou estudante de Ciências da Computação na Universidade Paulista, apaixonado por tecnologia e em desenvolver soluções que resolvam problemas. Atualmente tenho estudado bastante php e Laravel, mas consigo me dar bem com outras stacks como Java Script, Java, python, etc.
+Me chamo Gustavo Moreira Sandoval, natural da cidade de São Paulo , sou estudante de Ciências da Computação na Universidade Paulista, apaixonado por tecnologia e em desenvolver sistemas que solucionem problemas. Atualmente tenho estudado bastante php e Laravel, mas consigo me dar bem com outras stacks como Java Script, Java, python, etc.
 
 <h3 align="left">Social Media:</h3>
 <p align="left">
