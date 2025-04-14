@@ -85,7 +85,7 @@ align="left"
 width="30px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-
+<br>
 ### 📊 Estatísticas:
 
 <p>
@@ -98,7 +98,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
   <img
    align="left"
    height="200"
-   style="padding-right: 10px;"
    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMSandoval"
    />
 </p>
