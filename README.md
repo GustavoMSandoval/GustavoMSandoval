@@ -90,7 +90,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
       
 <img 
 align="left"
-width="70px"
+width="60px"
 style="padding-right: 10px;"  
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
           
