@@ -14,6 +14,7 @@ Me chamo Gustavo Moreira Sandoval, natural da cidade de São Paulo , sou estudan
 
 ### ⚒️ Linguagens e ferramentas:
 
+<div style="display: flex; align-items: center;">
 <img 
 align="left"
 width="30px"
@@ -100,6 +101,7 @@ align="left"
 width="30px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+</div>
 <br>
 ### 📊 Estatísticas:
 
